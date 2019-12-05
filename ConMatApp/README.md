@@ -1,6 +1,6 @@
 # Sistema ConMat
 
-##### Sistema de Gerenciamento de Empréstimos e Reservas de Materiais de Matemática
+### Sistema de Gerenciamento de Empréstimos e Reservas de Materiais de Matemática
 
 O Sistema ConMat foi desenvolvido para a disciplina de Engenharia de Software. O sistema é bem simples e trata-se de um controle de materiais de matemática criados e compartilhados pelos alunos e professores de uma escola fictícia.
 
